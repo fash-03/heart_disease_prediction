@@ -1,2 +1,8 @@
 # heart_disease_prediction
-This project is a machine learning modeling project to predict whether a patient has heart disease or not.
+
+### Objective
+The objective of this project is to design and build a predictive model capable of accurately determining the probability of an individual having heart disease. The focus is on leveraging machine learning techniques to create a model that can analyze relevant features and provide reliable predictions. The model should demonstrate high accuracy and generalizability, ensuring its effectiveness on new, unseen data.
+
+
+
+###### Credit: [ Zindi: Data Science Nigeria X Microsoft 2024 AI Bootcamp Qualification Hackathon](https://zindi.africa/competitions/microsoft-x-data-science-nigeria-2024-ai-bootcamp-qualification-hackathon)
